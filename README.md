@@ -16,7 +16,7 @@ Set the new land use code in the new year field.
 #### Case 2: the plot of land has been cut this year
 Condition: More than one GPS point is find in a polygon
 
-Write “part” in “errors” field and set “999999” in the new year field. Manually part the polygon and set the new codes.
+Write “part” in “errors” field and set “999999” in the new year field. Manually split the polygon and set the new codes.
 
 #### Case 3: appearance of a new plot of land
 Condition: The GPS point is not contained in any polygon
