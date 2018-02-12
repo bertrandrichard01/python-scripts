@@ -29,7 +29,7 @@ Condition: No point is found in a polygon.
 Set 0 in the new year field (no data).
 
 ### 3. Add an ID to each polygon in the new database
-
+[add_data_to_db.py] (https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db.py)
 ## Using
 - Use this script directly in python with the file [add_data_to_db.py] (https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db.py)
 
