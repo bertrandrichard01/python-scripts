@@ -4,9 +4,9 @@ This script was made in a context of remote sensing for agriculture monitoring, 
 
 ## What does the script do?
 
-**1. Create a field for the new year land use codes and a field “errors” to help the photo-interpreter make manual changes**
+### 1. Create a field for the new year land use codes and a field “errors” to help the photo-interpreter make manual changes
 
-2. Add data in functions of 4 possible cases:
+### 2. Add data in functions of 4 possible cases:
 
 #### Case 1: the plot of land geometry is unchanged
 Condition: Only one GPS point is contained in the polygon.
