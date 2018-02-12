@@ -37,7 +37,7 @@ for bd_feature in ly_bd:
         bd_feature.SetField(gps_value_fld, gps_feature_field)
     if i > 1:
         bd_feature.SetField(gps_value_fld, 99999)
-        bd_feature.SetField('errors', 'part')
+        bd_feature.SetField('errors', 'split')
 
     if i == 0:
         bd_feature.SetField(gps_value_fld, 0)
