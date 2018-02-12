@@ -31,8 +31,8 @@ Set 0 in the new year field (no data).
 ### 3. Add an ID to each polygon in the new database
 
 ## Using
-- Use this script directly in python with the file [add_data_to_db.py] (https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db.py)
+- Use this script directly in python with the file [add_data_to_db.py] (https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db.py))
 
 or
 
-- Import in Qgis as a personal toolbox with the file [add_data_to_db_qgis_version.py] (https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db_qgis_version.py)
+- Import in Qgis as a personal toolbox with the file [add_data_to_db_qgis_version.py] (https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db_qgis_version.py))
