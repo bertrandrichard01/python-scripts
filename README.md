@@ -8,7 +8,7 @@ This script was made in a context of remote sensing for agriculture monitoring, 
 
 ### 2. Add data in functions of 4 possible cases:
 
-#### Case 1: the geometry of plot of land has not changed
+#### Case 1: the geometry of the plot of land has not changed
 Condition: Only one GPS point is contained in the polygon.
 
 Set the new land use code in the new year field.
