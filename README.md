@@ -4,7 +4,7 @@ This script was made in a context of remote sensing for agriculture monitoring, 
 
 ## What does the script do?
 
-### 1. Create a field for the new year land use codes and a field “errors” to help the photo-interpreter make manual changes
+1. Create a field for the new year land use codes and a field “errors” to help the photo-interpreter make manual changes
 
 ### 2. Add data in functions of 4 possible cases:
 
@@ -29,7 +29,7 @@ Condition: No point is found in a polygon.
 Set 0 in the new year field (no data).
 
 ### 3. Add an ID to each polygon in the new database
-)
+
 ## Using
 - Use this script directly in python with the file [add_data_to_db.py](https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db.py)
 
