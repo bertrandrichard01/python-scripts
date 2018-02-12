@@ -8,7 +8,7 @@ This script was made in a context of remote sensing for agriculture monitoring, 
 
 ### 2. Add data in functions of 4 possible cases:
 
-#### Case 1: the plot of land geometry is unchanged
+#### Case 1: the geometry of plot of land has not changed
 Condition: Only one GPS point is contained in the polygon.
 
 Set the new land use code in the new year field.
@@ -31,6 +31,7 @@ Set 0 in the new year field (no data).
 ### 3. Add an ID to each polygon in the new database
 
 ## Using
+
 - Use this script directly in python with the file [add_data_to_db.py](https://github.com/bertrandrichard01/python-scripts/blob/master/add_data_to_db.py)
 
 or
