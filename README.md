@@ -24,7 +24,7 @@ Condition: The GPS point is not contained in any polygon
 Create a new entity by drawing a new polygon (square), write “redraw” in “errors” field and set the new land use code in the new year field, also set 0 to the others years (no data). Manually redraw the polygon.
 
 #### Case 4: no data for the plot of land this year
-Condition: No point is found in a polygon.
+Condition: No point has been found in a polygon.
 
 Set 0 in the new year field (no data).
 
