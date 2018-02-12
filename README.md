@@ -28,7 +28,7 @@ Condition: No point is found in a polygon.
 
 Set 0 in the new year field (no data).
 
-### 3. Add an ID to every polygon in the new database
+### 3. Add an ID to each polygon in the new database
 
 ## Using
 - Use this script directly in python
