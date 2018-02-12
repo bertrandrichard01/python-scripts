@@ -19,5 +19,5 @@ Create a new entity by drawing a new polygon (square), write “redraw” in “
 
 ## Using
 - Use this script directly in python
-
+or
 - Import in Qgis as a personal toolbox
