@@ -1,10 +1,10 @@
 # Add data to database
 
-This script was made in a context of remote sensing for agriculture monitoring, in order to add field data (GPS points) in a multiannual shapefile (polygon) and help in photointerpretation step to finally produce sampling data for training and validation.
+This script was made in a context of remote sensing for agriculture monitoring, in order to add field data (GPS points) in a multiannual shapefile (polygon) and help in photo-interpretation step to finally produce sampling data for training and validation.
 
 ## What does the script do?
 
-### 1. Create a field for the new year and a field “errors” 
+### 1. Create a field for the new year land use codes and a field “errors” to help the photo-interpreter make manual changes
 
 ### 2. Add data in functions of 3 possible cases:
 
